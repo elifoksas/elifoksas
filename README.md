@@ -16,6 +16,7 @@
   
  ##
   
+  
 ![Snake animation](https://github.com/elifoksas/elifoksas/blob/output/github-contribution-grid-snake.svg)
   <a href="https://github.com/elifoksas">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=elifoksas.elifoksas&style=for-the-badge">
