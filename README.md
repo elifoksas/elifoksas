@@ -1,7 +1,7 @@
 ### 
 
 
-<h1 align="center"> Hi 👋 I'm Elif Oksas. </h1>
+<h1 align="center"> Hi 👋 I'm Elif </h1>
 <br>
 <div align="center">
 <a href="https://github.com/elifoksas">  
