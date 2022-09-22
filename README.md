@@ -21,9 +21,13 @@
 <a href="https://github.com/elifoksas">  
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifoksas&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elifoksas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+
 </div>
   
-  <h2>🛠  Tech Stack</h2>
+  <br>
+  
+<h2>🛠  Tech Stack</h2>
 <div style="display: inline_block">
 <img align="center" alt="AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"> 
 <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
