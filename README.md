@@ -25,6 +25,10 @@
 
 </div>
   
+<div align="center">
+<img height="180em" src="https://streak-stats.demolab.com?user=elifoksas&theme=dracula"/>
+
+</div>
   <br>
   
 <h2>🛠  Tech Stack</h2>
