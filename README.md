@@ -6,9 +6,9 @@
 
 <h2 align="left">📍 About Me</h2>
 
-👩‍💻 I'm currently learning Flutter.
+👩‍💻 I'm currently learning Kotlin.
 <br>
-🙌🏻 I'm also interested in Android development with Kotlin.
+🙌🏻 I'm also interested in mobile development with Flutter.
 <br>
 📚 I'm a software engineering student.
 <br>
