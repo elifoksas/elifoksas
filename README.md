@@ -10,8 +10,6 @@
 <br>
 🙌🏻 I'm also interested in mobile development with Flutter.
 <br>
-📚 I'm a software engineering student.
-<br>
 💼 Any freelance work? do reach, [email](mailto:elifoksas2@gmail.com) 😊
 <br>
 <br>
