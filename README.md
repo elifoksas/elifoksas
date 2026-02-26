@@ -4,15 +4,6 @@
 <h1 align="center"> Hi 👋 I'm Elif </h1>
 <br>
 
-<h2 align="left">📍 About Me</h2>
-
-👩‍💻 I am currently developing android applications with Kotlin.
-<br>
-🙌🏻 I'm also interested in mobile development with Flutter.
-<br>
-💼 Any freelance work? do reach, [email](mailto:elifoksas2@gmail.com) 😊
-<br>
-<br>
 
 
 <div align="center">
